@@ -1,6 +1,6 @@
-# React + Vite
+# ReactJs-Basics-ToDoList
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a basic React.js program for creating a To Do List
 
 Currently, two official plugins are available:
 
